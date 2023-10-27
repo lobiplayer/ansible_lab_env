@@ -1,0 +1,4 @@
+*.qcow2
+*.tfstate
+*.tfstate.backup
+.terraform
